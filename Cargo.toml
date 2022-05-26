@@ -1,0 +1,16 @@
+[package]
+name = "gql-rust"
+description = "The library provides the access to the graph query language gremlin."
+version = "0.1.0"
+edition = "2021"
+authors = ["BorisZhguchev <zhguchev@gmail.com>"]
+license-file = "LICENSE"
+homepage = "https://github.com/besok/gql-rust"
+repository = "https://github.com/besok/gql-rust"
+readme = "README.md"
+keywords = ["graph", "gremlin", "gql", "dsl","query","parsing"]
+categories = ["api-bindings","compilers","parsing","database",""]
+
+
+[dependencies]
+[dev-dependencies]
